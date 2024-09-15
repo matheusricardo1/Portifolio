@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/usuario/backend-repo.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/usuario/frontend-repo.git
