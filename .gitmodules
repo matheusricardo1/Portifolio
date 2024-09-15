@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/usuario/backend-repo.git
+	url = https://github.com/matheusricardo1/PortifolioBackend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/usuario/frontend-repo.git
+	url = https://github.com/matheusricardo1/PortifolioFrontend.git
